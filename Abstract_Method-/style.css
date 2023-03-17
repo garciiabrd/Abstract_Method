@@ -1,0 +1,17 @@
+body{
+    background-image: url(hamburguer.jpg) ;
+    font-style:arial;
+    text-align: center;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(82, 36, 5)
+}
+
+legend{
+    font-style: oblique;
+    font-weight: bold;
+}
+
+

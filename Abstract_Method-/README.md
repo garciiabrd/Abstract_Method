@@ -1,0 +1,2 @@
+<h1> Projeto Abstract Method  </h1>
+<p>Sistema criado na matéria de Técnica de programação II  em conjunto com : Jefferson Messias Da Silva, Paulo Victor Reis Santos e Rafael Nascimento Oliveira  utilizando  Abstract Method e Builder, onde o projeto segue o padrão adotado pela lanchonete Subway onde o cliente monta seu pedido onde só será obrigado a escolher o tipo de pão e  poderá colocar mais opções de carne, queijo, molho e verduras e no final do pedido será exibido seu lanche com as opções escolhidas, As linguagens usadas  foram : HTML, CSS e JavaScript</p>
